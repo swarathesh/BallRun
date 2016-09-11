@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{D45E977B-FEF2-60DA-159D-651B9DE7035D}") = "zigzag", "Assembly-CSharp.csproj", "{12088D4F-AF06-F7F5-3F1B-A44A238CCB6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12088D4F-AF06-F7F5-3F1B-A44A238CCB6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12088D4F-AF06-F7F5-3F1B-A44A238CCB6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12088D4F-AF06-F7F5-3F1B-A44A238CCB6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12088D4F-AF06-F7F5-3F1B-A44A238CCB6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
